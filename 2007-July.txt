@@ -1,0 +1,21 @@
+From mkoike at celestica.com  Tue Jul 24 16:35:46 2007
+From: mkoike at celestica.com (Marcos Koike)
+Date: Tue, 24 Jul 2007 12:35:46 -0200
+Subject: [gpibcmd-users] GPIB Monitor
+Message-ID: <OFEEC9214D.E30B5E88-ON83257322.004FE89B-83257322.00502F09@celestica.com>
+
+Hi,
+
+        I began to use GPIB in my work and i would like to know if we can 
+see, all the commands from the GPIB-bus
+
+
+Thanks in advance
+
+Marcos A. Koike
+Test Engineer 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/gpibcmd-users/attachments/20070724/dc2cd847/attachment.html>
+
